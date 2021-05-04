@@ -19,5 +19,5 @@ cat result
 ```
 
 ```bash
-nix develop github:ES-Nix/Disaster-Girl-NFT-images-news/aeb2e7abc6acc6f6835ac4bcc7ac5223145dc714
+nix develop github:ES-Nix/Disaster-Girl-NFT-images-news/921b940768343572e88a1d747fafd26aa67facc0
 ```
