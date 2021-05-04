@@ -14,6 +14,6 @@ nix build .#network-fetchurl
 
 Note: requires `nix` + `flakes` working.
 ```bash
-nix build github:ES-Nix/Disaster-Girl-NFT-images-news/02e11519bfb3e0b91df7265eea2452f01fafa18a#network-fetchurl
+nix build github:ES-Nix/Disaster-Girl-NFT-images-news/6a2e03f85e4fb1f8198ba6e34e47b56185da20ef#network-fetchurl
 cat result
 ```
