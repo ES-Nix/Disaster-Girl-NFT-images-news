@@ -111,7 +111,7 @@ to be the most error-prone and unreliable element of the standard traditional co
 - [Palestra APIX 2015 - Filipe Deschamps - Sistemas Legados e API Experience](https://www.youtube.com/watch?v=0tJFRkbLiok)
 - [QUAL É A NOTÍCIA REVOLTANTE DO DIA?](https://www.youtube.com/watch?v=OGhWC7IPQk4&t=80s)
 
-
+Precisamos melhorar o controle social: Gabriela Prioli em [AFINAL: A CULPA É DE QUEM?](https://www.youtube.com/embed/6u5hDh7wIps?start=550&end=617&version=3)
 
 > O Ethereum tem uma linguagem determinística. O que eu quero dizer com isto? Uma linguagem deterministica é que se 
 eu executar o mesmo código em máquinas diferentes ele vai executar do mesmo jeito na mesma sequência produzir 
